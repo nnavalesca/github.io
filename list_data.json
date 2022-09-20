@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Nereida's Restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Restaurant Name": "Joe's Modern Thai",
+			"Location": "Oakland, CA",
+			"Genre": "Thai",
+			"Price": "$$"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Restaurant Name": "Joe's Rice Roll",
+			"Location": "New York, NY",
+			"Genre": "Chinese",
+			"Price": "$"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Restaurant Name": "Battambang",
+			"Location": "Oakland, CA",
+			"Genre": "Cambodian",
+			"Price": "$$"
 		}
 	]
 }
